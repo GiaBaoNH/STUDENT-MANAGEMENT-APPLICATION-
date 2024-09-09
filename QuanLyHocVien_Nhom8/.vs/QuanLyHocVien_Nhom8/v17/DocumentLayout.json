@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\report_ketqua.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\report_ketqua.rpt||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_trangchu_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_trangchu_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_hocvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_baocao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\report_ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\report_ketqua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|e:\\.net\\7_quanlihocvien\\quanlyhocvien_nhom8\\quanlyhocvien_nhom8\\frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CACA763C-24F0-491B-8587-C10E2A91B95A}|QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8.csproj|solutionrelative:quanlyhocvien_nhom8\\frm_trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report_KetQua.rpt",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Report_KetQua.rpt",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Report_KetQua.rpt",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Report_KetQua.rpt",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Report_KetQua.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-09T15:38:24.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_GiangVien.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_GiangVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_GiangVien.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_GiangVien.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_GiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:17.342Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_TrangChu_User.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_TrangChu_User.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_TrangChu_User.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_TrangChu_User.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_TrangChu_User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:17.138Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_DangNhap.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_DangNhap.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_DangNhap.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_DangNhap.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:17.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_HocVien.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_HocVien.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_HocVien.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_HocVien.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_HocVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:16.932Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_BaoCao.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_BaoCao.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_BaoCao.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_BaoCao.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_BaoCao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:16.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_Diem.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_Diem.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_Diem.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_Diem.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_Diem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:16.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report_KetQua.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Report_KetQua.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Report_KetQua.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Report_KetQua.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Report_KetQua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:16.389Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frm_TrangChu.cs [Design]",
+              "DocumentMoniker": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_TrangChu.cs",
+              "RelativeDocumentMoniker": "QuanLyHocVien_Nhom8\\Frm_TrangChu.cs",
+              "ToolTip": "E:\\.NET\\7_QuanLiHocVien\\QuanLyHocVien_Nhom8\\QuanLyHocVien_Nhom8\\Frm_TrangChu.cs [Design]",
+              "RelativeToolTip": "QuanLyHocVien_Nhom8\\Frm_TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:38:16.307Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
